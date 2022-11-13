@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  margin-top: 50px;
+  font-size: 30px;
+}
+body{
+  background-color: rgb(102, 102, 238);
+
 }
 
 .App-logo {
@@ -36,3 +42,44 @@
     transform: rotate(360deg);
   }
 }
+.praveen{
+   size: 25px;
+  width: 600px;
+  height: 400px;
+  background-color: #61dafb;
+  text-align: center;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 23px;
+}
+.SelectCountry{
+  margin: 20px;
+  size: 25px;
+}
+.header{
+  margin-top: 5px;
+}
+.convert_button{
+  width: 100px;
+  border-radius: 13px;
+  cursor: pointer;
+  font-size: 20px;
+}
+.result{
+  margin-top: 20px;
+  font-size: 30px;
+}
+.top-header{
+  font-size: 30px;
+  font-style: bold;
+}
+#CurrencyInput{
+  font-size: 20px;
+}
+.special{
+  font-size: 20px;
+}
+.h1{
+  color: white;
+}
+
